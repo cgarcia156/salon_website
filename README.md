@@ -15,4 +15,4 @@ This website is hosted on Firebase and uses Firebase as a database to collect co
 
 ## Check it out!
 
-https://website-test-276c4.web.app/
+[GG's Salon](https://website-test-276c4.web.app/)
